@@ -17,3 +17,4 @@ function priceEco() {
     document.querySelector('#luxury').innerText = 'Economy'
     document.querySelector('#price').innerText = '$99 / DAY'
 }
+
