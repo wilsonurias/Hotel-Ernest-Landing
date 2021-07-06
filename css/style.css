@@ -33,7 +33,7 @@ body {
   text-align: center;
   width: 100%;
   height: 700px;
-  background-image: url('/Users/wilsonurias/Desktop/Hotel Landing Page/Images/hotel-main.jpeg');
+  background-image: url('/Users/wilsonurias/Projects/Hotel Landing Page/Images/hotel-main.jpeg');
   /* background-color: rgba(119, 162, 153, 1) */
   background-attachment: fixed;
   background-size: cover;
@@ -97,16 +97,17 @@ button{
 }
 
 #rest{
-  background-image: url('/Users/wilsonurias/Desktop/Hotel Landing Page/Images/restaurant.jpg');
+  background-image: url('/Users/wilsonurias/Projects/Hotel Landing Page/Images/restaurant.jpg');
 }
 
 #gym{
-  background-image: url('/Users/wilsonurias/Desktop/Hotel Landing Page/Images/gym.jpg');
+  background-image: url('/Users/wilsonurias/Projects/Hotel Landing Page/Images/gym.jpg');
 }
 
 #spa{
-  background-image: url('/Users/wilsonurias/Desktop/Hotel Landing Page/Images/spa.jpg');
+  background-image: url('/Users/wilsonurias/Projects/Hotel Landing Page/Images/spa.jpg');
 }
+
 
 span{
   position: relative;
@@ -120,7 +121,7 @@ span{
   text-align: center;
   width: auto;
   height: 700px;
-  background-image: url('/Users/wilsonurias/Desktop/Hotel Landing Page/Images/room.jpg');
+  background-image: url('/Users/wilsonurias/Projects/Hotel Landing Page/Images/room.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
